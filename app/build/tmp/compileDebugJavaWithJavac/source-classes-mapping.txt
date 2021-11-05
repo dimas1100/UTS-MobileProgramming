@@ -1,0 +1,2 @@
+com/example/persiapanuts/BuildConfig.java
+ com.example.persiapanuts.BuildConfig
